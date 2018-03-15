@@ -1,0 +1,10 @@
+C:\Users\Fritz Villacorta\Desktop\Hopfield\Hopfield\Hopfield\bin\Debug\Hopfield.exe.config
+C:\Users\Fritz Villacorta\Desktop\Hopfield\Hopfield\Hopfield\bin\Debug\Hopfield.exe
+C:\Users\Fritz Villacorta\Desktop\Hopfield\Hopfield\Hopfield\bin\Debug\Hopfield.pdb
+C:\Users\Fritz Villacorta\Desktop\Hopfield\Hopfield\Hopfield\obj\Debug\Hopfield.Properties.Resources.resources
+C:\Users\Fritz Villacorta\Desktop\Hopfield\Hopfield\Hopfield\obj\Debug\Hopfield.csproj.GenerateResource.Cache
+C:\Users\Fritz Villacorta\Desktop\Hopfield\Hopfield\Hopfield\obj\Debug\Hopfield.csproj.CoreCompileInputs.cache
+C:\Users\Fritz Villacorta\Desktop\Hopfield\Hopfield\Hopfield\obj\Debug\Hopfield.exe
+C:\Users\Fritz Villacorta\Desktop\Hopfield\Hopfield\Hopfield\obj\Debug\Hopfield.pdb
+C:\Users\Fritz Villacorta\Desktop\Hopfield\Hopfield\Hopfield\obj\Debug\Hopfield.csprojResolveAssemblyReference.cache
+C:\Users\Fritz Villacorta\Desktop\Hopfield\Hopfield\Hopfield\obj\Debug\Hopfield.Form1.resources

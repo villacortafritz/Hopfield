@@ -1,0 +1,8 @@
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\NeuralNetworks\bin\Debug\NeuralNetworks.dll
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\NeuralNetworks\bin\Debug\NeuralNetworks.pdb
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\NeuralNetworks\bin\Debug\MathNet.Numerics.dll
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\NeuralNetworks\bin\Debug\MathNet.Numerics.xml
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\NeuralNetworks\obj\Debug\NeuralNetworks.csprojResolveAssemblyReference.cache
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\NeuralNetworks\obj\Debug\NeuralNetworks.csproj.CoreCompileInputs.cache
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\NeuralNetworks\obj\Debug\NeuralNetworks.dll
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\NeuralNetworks\obj\Debug\NeuralNetworks.pdb

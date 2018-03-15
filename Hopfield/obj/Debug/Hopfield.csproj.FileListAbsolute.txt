@@ -1,10 +1,48 @@
-C:\Users\Fritz Villacorta\Desktop\Hopfield\Hopfield\Hopfield\bin\Debug\Hopfield.exe.config
-C:\Users\Fritz Villacorta\Desktop\Hopfield\Hopfield\Hopfield\bin\Debug\Hopfield.exe
-C:\Users\Fritz Villacorta\Desktop\Hopfield\Hopfield\Hopfield\bin\Debug\Hopfield.pdb
-C:\Users\Fritz Villacorta\Desktop\Hopfield\Hopfield\Hopfield\obj\Debug\Hopfield.Properties.Resources.resources
-C:\Users\Fritz Villacorta\Desktop\Hopfield\Hopfield\Hopfield\obj\Debug\Hopfield.csproj.GenerateResource.Cache
-C:\Users\Fritz Villacorta\Desktop\Hopfield\Hopfield\Hopfield\obj\Debug\Hopfield.csproj.CoreCompileInputs.cache
-C:\Users\Fritz Villacorta\Desktop\Hopfield\Hopfield\Hopfield\obj\Debug\Hopfield.exe
-C:\Users\Fritz Villacorta\Desktop\Hopfield\Hopfield\Hopfield\obj\Debug\Hopfield.pdb
-C:\Users\Fritz Villacorta\Desktop\Hopfield\Hopfield\Hopfield\obj\Debug\Hopfield.csprojResolveAssemblyReference.cache
-C:\Users\Fritz Villacorta\Desktop\Hopfield\Hopfield\Hopfield\obj\Debug\Hopfield.Form1.resources
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\HopfieldNetworkClient\bin\Debug\Data\1-2-7.txt
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\HopfieldNetworkClient\bin\Debug\Data\1-4-6.txt
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\HopfieldNetworkClient\bin\Debug\Data\1-4-7_too_similiar.txt
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\HopfieldNetworkClient\bin\Debug\HopfieldNetworkClient.exe
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\HopfieldNetworkClient\bin\Debug\HopfieldNetworkClient.pdb
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\HopfieldNetworkClient\bin\Debug\MathNet.Numerics.dll
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\HopfieldNetworkClient\bin\Debug\NeuralNetworks.dll
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\HopfieldNetworkClient\bin\Debug\NeuralNetworks.pdb
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\HopfieldNetworkClient\bin\Debug\MathNet.Numerics.xml
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\HopfieldNetworkClient\obj\Debug\Hopfield.csprojResolveAssemblyReference.cache
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\HopfieldNetworkClient\obj\Debug\HopfieldNetworkClient.MainForm.resources
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\HopfieldNetworkClient\obj\Debug\HopfieldNetworkClient.Properties.Resources.resources
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\HopfieldNetworkClient\obj\Debug\Hopfield.csproj.GenerateResource.Cache
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\HopfieldNetworkClient\obj\Debug\Hopfield.csproj.CoreCompileInputs.cache
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\HopfieldNetworkClient\obj\Debug\HopfieldNetworkClient.exe
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\HopfieldNetworkClient\obj\Debug\HopfieldNetworkClient.pdb
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\Hopfield\bin\Debug\HopfieldNetworkClient.exe
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\Hopfield\bin\Debug\HopfieldNetworkClient.pdb
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\Hopfield\bin\Debug\MathNet.Numerics.dll
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\Hopfield\bin\Debug\NeuralNetworks.dll
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\Hopfield\bin\Debug\NeuralNetworks.pdb
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\Hopfield\bin\Debug\MathNet.Numerics.xml
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\Hopfield\obj\Debug\Hopfield.csprojResolveAssemblyReference.cache
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\Hopfield\obj\Debug\HopfieldNetworkClient.MainForm.resources
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\Hopfield\obj\Debug\HopfieldNetworkClient.Properties.Resources.resources
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\Hopfield\obj\Debug\Hopfield.csproj.GenerateResource.Cache
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\Hopfield\obj\Debug\Hopfield.csproj.CoreCompileInputs.cache
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\Hopfield\obj\Debug\HopfieldNetworkClient.exe
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\Hopfield\obj\Debug\HopfieldNetworkClient.pdb
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\Hopfield\bin\Debug\Training Data\1-2-7.txt
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\Hopfield\bin\Debug\Training Data\1-4-6.txt
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\Hopfield\bin\Debug\Training Data\1-4-7_too_similiar.txt
+C:\Users\Fritz Villacorta\Desktop\Hopfield\Hopfield\bin\Debug\Training Data\1-2-7.txt
+C:\Users\Fritz Villacorta\Desktop\Hopfield\Hopfield\bin\Debug\Training Data\1-4-6.txt
+C:\Users\Fritz Villacorta\Desktop\Hopfield\Hopfield\bin\Debug\Training Data\1-4-7_too_similiar.txt
+C:\Users\Fritz Villacorta\Desktop\Hopfield\Hopfield\bin\Debug\HopfieldNetworkClient.exe
+C:\Users\Fritz Villacorta\Desktop\Hopfield\Hopfield\bin\Debug\HopfieldNetworkClient.pdb
+C:\Users\Fritz Villacorta\Desktop\Hopfield\Hopfield\bin\Debug\MathNet.Numerics.dll
+C:\Users\Fritz Villacorta\Desktop\Hopfield\Hopfield\bin\Debug\NeuralNetworks.dll
+C:\Users\Fritz Villacorta\Desktop\Hopfield\Hopfield\bin\Debug\NeuralNetworks.pdb
+C:\Users\Fritz Villacorta\Desktop\Hopfield\Hopfield\bin\Debug\MathNet.Numerics.xml
+C:\Users\Fritz Villacorta\Desktop\Hopfield\Hopfield\obj\Debug\Hopfield.csprojResolveAssemblyReference.cache
+C:\Users\Fritz Villacorta\Desktop\Hopfield\Hopfield\obj\Debug\HopfieldNetworkClient.MainForm.resources
+C:\Users\Fritz Villacorta\Desktop\Hopfield\Hopfield\obj\Debug\HopfieldNetworkClient.Properties.Resources.resources
+C:\Users\Fritz Villacorta\Desktop\Hopfield\Hopfield\obj\Debug\Hopfield.csproj.GenerateResource.Cache
+C:\Users\Fritz Villacorta\Desktop\Hopfield\Hopfield\obj\Debug\Hopfield.csproj.CoreCompileInputs.cache
+C:\Users\Fritz Villacorta\Desktop\Hopfield\Hopfield\obj\Debug\HopfieldNetworkClient.exe
+C:\Users\Fritz Villacorta\Desktop\Hopfield\Hopfield\obj\Debug\HopfieldNetworkClient.pdb

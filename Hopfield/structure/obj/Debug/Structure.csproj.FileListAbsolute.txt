@@ -1,0 +1,15 @@
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\NeuralNetworks\bin\Debug\NeuralNetworks.dll
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\NeuralNetworks\bin\Debug\NeuralNetworks.pdb
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\NeuralNetworks\bin\Debug\MathNet.Numerics.dll
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\NeuralNetworks\bin\Debug\MathNet.Numerics.xml
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\NeuralNetworks\obj\Debug\Structure.csproj.CoreCompileInputs.cache
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\NeuralNetworks\obj\Debug\NeuralNetworks.dll
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\NeuralNetworks\obj\Debug\NeuralNetworks.pdb
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\NeuralNetworks\obj\Debug\Structure.csprojResolveAssemblyReference.cache
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\Hopfield\structure\bin\Debug\NeuralNetworks.dll
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\Hopfield\structure\bin\Debug\NeuralNetworks.pdb
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\Hopfield\structure\bin\Debug\MathNet.Numerics.xml
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\Hopfield\structure\obj\Debug\structure.csprojResolveAssemblyReference.cache
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\Hopfield\structure\obj\Debug\structure.csproj.CoreCompileInputs.cache
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\Hopfield\structure\obj\Debug\NeuralNetworks.dll
+C:\Users\Fritz Villacorta\Desktop\NeuralNetworks-master\Hopfield\structure\obj\Debug\NeuralNetworks.pdb
